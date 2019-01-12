@@ -1,0 +1,8 @@
+{
+  "short_name": "黄花机场",
+  "name": "黄花机场智慧能源管理系统-监视系统",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000",
+  "background_color": "#000"
+}

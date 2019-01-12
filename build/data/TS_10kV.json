@@ -1,0 +1,24 @@
+{
+  "msg":"请求成功",
+  "data":[
+    {
+      "category":"1",
+      "points":[
+        {"unit":"A","name":"测试","type":"1","value":"0","order":"1"}
+      ]
+    },
+    {
+      "category":"2",
+      "points":[
+        {"unit":"A","name":"测试","type":"2","value":"0","order":"1"}
+      ]
+    },
+    {
+      "category":"3",
+      "points":[
+        {"unit":"A","name":"测试","type":"3","value":"0","order":"1"}
+      ]
+    }
+  ],
+  "status":"success"
+}
