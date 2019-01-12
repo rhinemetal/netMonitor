@@ -1,0 +1,294 @@
+{
+  "msg": "请求成功",
+  "data": [
+    {
+      "category": "1",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "Ua",
+          "type": "1",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Ub",
+          "type": "1",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Uc",
+          "type": "1",
+          "value": "109.3",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "2",
+      "points": [
+        {
+          "unit": "A",
+          "name": "la",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lb",
+          "type": "2",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lc",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kW",
+          "name": "P",
+          "type": "2",
+          "value": "899",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "3",
+      "points": [
+        {
+          "unit": "A",
+          "name": "la",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lb",
+          "type": "2",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lc",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kW",
+          "name": "P",
+          "type": "2",
+          "value": "899",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "4",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "Ua",
+          "type": "1",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Ub",
+          "type": "1",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Uc",
+          "type": "1",
+          "value": "109.3",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "5",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "Ua",
+          "type": "5",
+          "value": "9.3",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Ub",
+          "type": "5",
+          "value": "9.4",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Uc",
+          "type": "5",
+          "value": "9.3",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "6",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "P",
+          "type": "6",
+          "value": "899",
+          "order": "1"
+        },
+        {
+          "unit": "%",
+          "name": "负荷率",
+          "type": "6",
+          "value": "30.6",
+          "order": "1"
+        },
+        {
+          "unit": "",
+          "name": "功率因数",
+          "type": "6",
+          "value": "0.83",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "7",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "P",
+          "type": "6",
+          "value": "899",
+          "order": "1"
+        },
+        {
+          "unit": "%",
+          "name": "负荷率",
+          "type": "6",
+          "value": "30.6",
+          "order": "1"
+        },
+        {
+          "unit": "",
+          "name": "功率因数",
+          "type": "6",
+          "value": "0.83",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "8",
+      "points": [
+        {
+          "unit": "kV",
+          "name": "Ua",
+          "type": "5",
+          "value": "9.3",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Ub",
+          "type": "5",
+          "value": "9.4",
+          "order": "1"
+        },
+        {
+          "unit": "kV",
+          "name": "Uc",
+          "type": "5",
+          "value": "9.3",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "9",
+      "points": [
+        {
+          "unit": "A",
+          "name": "la",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lb",
+          "type": "2",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lc",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kW",
+          "name": "P",
+          "type": "2",
+          "value": "899",
+          "order": "1"
+        }
+      ]
+    },
+    {
+      "category": "10",
+      "points": [
+        {
+          "unit": "A",
+          "name": "la",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lb",
+          "type": "2",
+          "value": "109.4",
+          "order": "1"
+        },
+        {
+          "unit": "A",
+          "name": "lc",
+          "type": "2",
+          "value": "109.3",
+          "order": "1"
+        },
+        {
+          "unit": "kW",
+          "name": "P",
+          "type": "2",
+          "value": "899",
+          "order": "1"
+        }
+      ]
+    }
+  ],
+  "status": "success"
+}

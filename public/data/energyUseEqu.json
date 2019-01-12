@@ -1,0 +1,13 @@
+{
+    "msg": "请求成功",
+    "data": [
+        {
+            "percentage": "0",
+            "name": "测试",
+            "actualPower": "0",
+            "state": "0",
+            "totalPower": "0"
+        }
+    ],
+    "status": "success"
+}

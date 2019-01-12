@@ -1,0 +1,96 @@
+{
+  "msg": "请求成功",
+  "data": {
+    "flow": [
+      {"name": "实时流量", "value": "2342Nm³/s"},
+      {"name": "实时流量", "value": "2342Nm³/s"},
+      {"name": "实时功率", "value": "2342kW"},
+      {"name": "实时功率", "value": "2342kW"},
+      {"name": "实时功率", "value": "2342kW"},
+      {"name": "实时功率", "value": "2342kW"}
+    ],
+    "table": [
+      {
+        "title": "本年度累计产能量",
+        "list":[
+          {
+            "name": "发电量",
+            "value": "628283.22",
+            "unit": "kWh"
+          },
+          {
+            "name": "产冷量",
+            "value": "599288.46",
+            "unit": "kWh"
+          },
+          {
+            "name": "产热量",
+            "value": "283993.83",
+            "unit": "kWh"
+          }
+        ]
+      },
+      {
+        "title": "本年度累计耗能量",
+        "list":[
+          {
+            "name": "耗电量",
+            "value": "352353.74",
+            "unit": "kWh"
+          },
+          {
+            "name": "耗气量",
+            "value": "682575.44",
+            "unit": "Nm³"
+          },
+          {
+            "name": "耗水量",
+            "value": "231.2",
+            "unit": "t"
+          }
+        ]
+      },
+      {
+        "title": "今日产能量",
+        "list":[
+          {
+            "name": "发电量",
+            "value": "347.75",
+            "unit": "kWh"
+          },
+          {
+            "name": "产冷量",
+            "value": "825.12",
+            "unit": "kWh"
+          },
+          {
+            "name": "产热量",
+            "value": "893.93",
+            "unit": "kWh"
+          }
+        ]
+      },
+      {
+        "title": "今日耗能量",
+        "list":[
+          {
+            "name": "耗电量",
+            "value": "398.84",
+            "unit": "kWh"
+          },
+          {
+            "name": "耗气量",
+            "value": "884.72",
+            "unit": "Nm³"
+          },
+          {
+            "name": "耗水量",
+            "value": "0.7",
+            "unit": "t"
+          }
+        ]
+      }
+    ]
+  },
+  "status": "success"
+}
