@@ -1,0 +1,232 @@
+.space .light{display: block;position: absolute;}
+.space .h-red{background: url(../images/light-h-red.png) no-repeat;width: 36px;height: 20px}
+.space .v-red{background: url(../images/light-v-red.png) no-repeat;width: 20px;height: 36px}
+.space .h-green{background: url(../images/light-h-green.png) no-repeat;width: 36px;height: 20px}
+.space .v-green{background: url(../images/light-v-green.png) no-repeat;width: 20px;height: 36px}
+.space .h-yellow{background: url(../images/light-h-yellow.png) no-repeat;width: 36px;height: 20px}
+.space .v-yellow{background: url(../images/light-v-yellow.png) no-repeat;width: 20px;height: 36px}
+
+.space .light-1 {
+    top: 30px;
+    left: 45px;
+    animation: light-1-ani 3s infinite linear;
+}
+@keyframes light-1-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(870px, 0, 0);
+    }
+}
+.space .light-2 {
+    top: 35px;
+    left: 44px;
+    animation: light-2-ani 3s infinite linear;
+}
+@keyframes light-2-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, 260px, 0);
+    }
+}
+.space .light-3 {
+    top: 35px;
+    left: 194px;
+    animation: light-3-ani 3s infinite linear;
+}
+@keyframes light-3-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, 200px, 0);
+    }
+}
+.space .light-4 {
+    top: 254px;
+    left: 194px;
+    animation: light-4-ani 2s infinite linear;
+}
+@keyframes light-4-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(200px, 0, 0);
+    }
+}
+.space .light-5 {
+    top: 244px;
+    left: 413px;
+    animation: light-5-ani 1s infinite linear;
+}
+@keyframes light-5-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.2;
+        transform: scale(1) rotate(0) translate3d(0, 40px, 0);
+    }
+}
+.space .light-6 {
+    top: 30px;
+    left: 480px;
+    animation: light-6-ani 1s infinite linear;
+}
+@keyframes light-6-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.6;
+        transform: scale(1) rotate(0) translate3d(0, 50px, 0);
+    }
+}
+.space .light-7 {
+    top: 30px;
+    left: 690px;
+    animation: light-7-ani 1s infinite linear;
+}
+@keyframes light-7-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.6;
+        transform: scale(1) rotate(0) translate3d(0, 40px, 0);
+    }
+}
+.space .light-8 {
+    top: 30px;
+    left: 813px;
+    animation: light-8-ani 1s infinite linear;
+}
+@keyframes light-8-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.6;
+        transform: scale(1) rotate(0) translate3d(0, 220px, 0);
+    }
+}
+.space .light-9 {
+    top: 30px;
+    left: 938px;
+    animation: light-9-ani 1s infinite linear;
+}
+@keyframes light-9-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.6;
+        transform: scale(1) rotate(0) translate3d(0, 30px, 0);
+    }
+}
+.space .light-10 {
+    top: 270px;
+    left: 127px;
+    animation: light-10-ani 1s infinite linear;
+}
+@keyframes light-10-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -30px, 0);
+    }
+}
+.space .light-11 {
+    top: 270px;
+    left: 436px;
+    animation: light-11-ani 1s infinite linear;
+}
+@keyframes light-11-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -80px, 0);
+    }
+}
+.space .light-12 {
+    top: 270px;
+    left: 832px;
+    animation: light-12-ani 1s infinite linear;
+}
+@keyframes light-12-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -70px, 0);
+    }
+}
+.space .light-13 {
+    top: 410px;
+    left: 160px;
+    animation: light-13-ani 1s infinite linear;
+}
+@keyframes light-13-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -40px, 0);
+    }
+}
+.space .light-14 {
+    top: 410px;
+    left: 490px;
+    animation: light-14-ani 1s infinite linear;
+}
+@keyframes light-14-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -40px, 0);
+    }
+}
+.space .light-15 {
+    top: 410px;
+    left: 831px;
+    animation: light-15-ani 1s infinite linear;
+}
+@keyframes light-15-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(0, -40px, 0);
+    }
+}
+.space .light-16 {
+    top: 425px;
+    left: 45px;
+    animation: light-16-ani 3s infinite linear;
+}
+@keyframes light-16-ani {
+    0% {
+        transform: scale(1) rotate(0) translate3d(0, 0, 0);
+    }
+    100% {
+        opacity: 0.5;
+        transform: scale(1) rotate(0) translate3d(870px, 0, 0);
+    }
+}
