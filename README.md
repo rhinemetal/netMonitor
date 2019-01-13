@@ -92,14 +92,3 @@
 
 
 
-<table border="0">
-  <tr>
-    <td>
-      111
-    </td>
-    <td>
-      111
-    </td>    
-  </tr>
-</table>
-*sdkfjdksjfd
