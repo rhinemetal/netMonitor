@@ -91,6 +91,4 @@
 │── package.json　　　　// 项目配置文件<br>
 
 
-<pre><code>这是一个代码区块。
 
-</code></pre>
