@@ -16,7 +16,7 @@
 
 ****
 	
-|Front-end developer|张琳|
+|Front-end|张琳|
 |---|---
 |WeChat|ZL200pro
 
