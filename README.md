@@ -89,3 +89,6 @@
     </td>    
   </tr>
 </table>
+<style type="text/css">
+table{border-collapse:collapse;border-spacing:0}
+</style>
