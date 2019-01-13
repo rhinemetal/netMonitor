@@ -30,19 +30,19 @@
 ## 目录结构
 
 . <br>
-│── **build**　　　　　　 　　 　　　　　　　// 客户端生产环境编译代码后的文件<br>
+│── **build**<br>
 │　　│── data　　　　　　　 　　 　　 　// 客户端模拟接口的数据文件<br>
 │　　│── static　　　　　　 　　 　　 　　// 客户端静态资源<br>
 │　　│　　│── css　　　　　 　　 　　 　// 客户端静态资源<br>
 │　　│　　│── images　　　　 　　 　　 // 客户端图片文件<br>
 │　　│　　│── js　　　　　　 　　 　　 // 客户端js文件<br>
 │　　│　　│── media　　　　　 　　 　 // 客户端其它媒体文件<br>
-│── <b>config</b>　　　　　　　　　  　　　　　// 服务端webpack配置文件<br>
+│── **config**　　　　　　　　　  　　　　　// 服务端webpack配置文件<br>
 │　　│── jest　　　　　　　　 　　 　 　// 单元测试<br>
-│── <b>public</b>　　　　　　　　　  　　　　　// 服务端公共文件及静态资源<br>
+│── **public**　　　　　　　　　  　　　　　// 服务端公共文件及静态资源<br>
 │　　│── data　　　　　　　　 　　 　　// 服务端模拟接口的数据文件<br>
-│── <b>scripts</b>　　　　　　　　　 　　　　　// 服务端各环境下的配置文件<br>
-│── <b>src</b>　　　　　　　　　　　　　　　　// 服务端开发环境代码<br>
+│── **scripts**　　　　　　　　　 　　　　　// 服务端各环境下的配置文件<br>
+│── **src**　　　　　　　　　　　　　　　　// 服务端开发环境代码<br>
 │　　│── <b>components</b>　　　　　　　　　// 服务端模块组件<br>
 │　　│　　│── <b>aircs</b><br>
 │　　│　　│　　│── t1.js　　　　　　　// 空调系统监视-T1航站楼及连廊<br>
@@ -77,18 +77,18 @@
 │　　│　　│　　│── l4_4.js　　　　　// 监视总览-供能设备负荷水平<br>
 │　　│　　│　　│── space.js　　　 　// 监视总览-中央管网动画<br>
 │　　│　　│　　│── top.js　　　　　 // 监视总览-顶部LOGO、年月、日期<br>
-│　　│　　│── 404.js　　　　　　　// 404页面<br>
+│　　│　　│── 404.js<br>
 │　　│　　│── aircs.js　　　　　　// 空调系统监视路由<br>
-│　　│　　│── api.js　　　　　　　// API资源对象<br>
+│　　│　　│── api.js<br>
 │　　│　　│── energysupply.js　　// 运行监视-供能监视<br>
 │　　│　　│── energyuse.js　　　 // 用能监视<br>
 │　　│　　│── netmonitor.js　　　// 配网监视<br>
 │　　│　　│── overview.js　　　　// 监视总览 大首页<br>
-│　　│── <b>css</b>　　　　　　　// 服务端样式文件<br>
-│　　│── <b>images</b>　　　　　// 服务端图片文件<br>
-│　　│── <b>mock</b>　　　　　　// 服务端数据文件<br>
-│── .gitignore　　　　　 // git要忽略的文件<br>
-│── package.json　　　　// 项目配置文件<br>
+│　　│── <b>css</b><br>
+│　　│── <b>images</b><br>
+│　　│── <b>mock</b>　　　　　　// 数据文件<br>
+│── .gitignore<br>
+│── package.json<br>
 
 
 
