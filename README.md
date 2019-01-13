@@ -79,7 +79,7 @@
 
 
 
-<table>
+<table style="border-spacing:0">
   <tr>
     <td>
       111
