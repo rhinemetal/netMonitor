@@ -68,6 +68,7 @@
 
 ## 目录结构
 
+```
 . <br>
 │── **build**<br>
 │　　│── data　　　　　　　 　　 　　 　// 客户端模拟接口的数据文件<br>
@@ -128,6 +129,6 @@
 │　　│── <b>mock</b>　　　　　　// 数据文件<br>
 │── .gitignore<br>
 │── package.json<br>
-
+```
 
 
