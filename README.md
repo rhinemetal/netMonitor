@@ -2,6 +2,9 @@
 ===========================
 黄花机场综合能源管理系统，项目编号：-------<br><br><br>
 
+[![dependencies Status](https://david-dm.org/chikara-chan/react-isomorphic-boilerplate/status.svg)](https://david-dm.org/chikara-chan/react-isomorphic-boilerplate) [![devDependencies Status](https://david-dm.org/chikara-chan/react-isomorphic-boilerplate/dev-status.svg)](https://david-dm.org/chikara-chan/react-isomorphic-boilerplate?type=dev) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chikara-chan/react-isomorphic-boilerplate/pulls) [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/chikara-chan/react-isomorphic-boilerplate/blob/master/LICENSE)
+
+
 ## 前端开发
 	
 |Author|张琳|
